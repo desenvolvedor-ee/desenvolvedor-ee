@@ -114,6 +114,6 @@ Use o GitHub Issues ou Discussions nos repositórios para contato técnico.
 
 ---
 
-Site: desenvolvedoree.qzz.io
+Site: https://desenvolvedoree.qzz.io
 
 email: suporte@desenvolvedoree.qzz.io
