@@ -21,10 +21,11 @@ A **Central Macatuba** funciona como um backbone tecnológico que integra, padro
 
 **Inclui módulos como:**
 - Jornal
-- Tempo
 - Mapa
+- Tempo
+- Informações
 - SOS
-- Informações Municipais
+- Serviços
 
 🔗 https://centralmacatuba.eu.org
 
@@ -110,3 +111,8 @@ Este perfil existe para documentar, compartilhar e evoluir projetos que unem **t
 
 ## 📬 Contato
 Use o GitHub Issues ou Discussions nos repositórios para contato técnico.
+
+---
+
+Site: desenvolvedoree.qzz.io
+email: suporte@desenvolvedoree.qzz.io
