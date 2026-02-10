@@ -27,7 +27,7 @@ A **Central Macatuba** funciona como um backbone tecnológico que integra, padro
 - SOS
 - Serviços
 
-🔗 https://centralmacatuba.eu.org
+🔗 https://centralmacatuba.qzz.io
 
 ---
 
